@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/DevRahimi/random-advice-generator](https://github.com/DevRahimi/random-advice-generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://devrahimi.github.io/random-advice-generator/](https://devrahimi.github.io/random-advice-generator/)
 
 ## My process
 
