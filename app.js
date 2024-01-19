@@ -16,3 +16,4 @@ const fetchWisdom = async () => {
 };
 
 btn.addEventListener('click', fetchWisdom);
+window.addEventListener('load', fetchWisdom);
